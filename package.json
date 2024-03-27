@@ -1,0 +1,19 @@
+{
+  "name": "uhahtetew",
+  "version": "1.1.4",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/furano991/uhahtetew"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/furano991/uhahtetew/issues"
+  },
+  "homepage": "https://github.com/furano991/uhahtetew#readme"
+}
